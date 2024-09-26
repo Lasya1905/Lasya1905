@@ -4,7 +4,7 @@ Hi there, I'm Lasya Rao! 👋
 I'm a passionate Computer Science student at the Institute of Aeronautical Engineering, currently in my 3rd semester. My journey in technology has led me to explore various fields, with a special focus on cybersecurity and software development.
 </br>
 </br>
-##🌟 About Me
+🌟 About Me
 </br>
 
 I’m deeply interested in cybersecurity, where I work as part of a startup called PostDev, specializing in penetration testing. My goal is to build robust security solutions and contribute to a safer digital landscape.
@@ -13,7 +13,7 @@ I'm also involved in community initiatives, serving as the PR Lead for GDSC, GDG
 My technical skills include C, Java, Python, SQL, HTML, CSS, and Bootstrap. I'm eager to learn new programming languages and technologies, continually seeking to enhance my expertise.
 </br>
 </br>
-##🚀 Projects 
+🚀 Projects 
 </br>
 Dhanone3: I am working on an AI-based software aimed at reducing the workload for radiologists. This project is close to my heart as it combines my interest in AI with my desire to make a positive impact in healthcare.
 </br>
