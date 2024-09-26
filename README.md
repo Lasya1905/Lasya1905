@@ -9,7 +9,7 @@ I'm a passionate Computer Science student at the Institute of Aeronautical Engin
 
 I’m deeply interested in cybersecurity, where I work as part of a startup called PostDev, specializing in penetration testing. My goal is to build robust security solutions and contribute to a safer digital landscape.
 </br>
-I'm also involved in community initiatives, serving as the PR Lead for GDSC, GDG IARE, and GDG on Campus. I love connecting with like-minded individuals and sharing knowledge through Study Jams and events.
+I'm also involved in community initiatives, serving as the PR Lead for GDG on Campus. I love connecting with like-minded individuals and sharing knowledge through Study Jams and events.
 My technical skills include C, Java, Python, SQL, HTML, CSS, and Bootstrap. I'm eager to learn new programming languages and technologies, continually seeking to enhance my expertise.
 </br>
 </br>
