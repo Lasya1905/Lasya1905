@@ -31,8 +31,8 @@ Institute of Aeronautical Engineering, Hyderabad
 - **Public Relations Lead @ GDG on Campus Hyderabad** (Sept 2024 - Present)  
 
 ## 📫 Connect with Me
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **Email:** your.email@example.com
+- **GitHub:** [github.com/yourusername](https://github.com/Lasya1905)
+- **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/lasya-rao-k-894282291/)
+- **Email:** : klasyarao@gmail.com
 
 🔹 *Always open to learning and collaboration!* 🚀
