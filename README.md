@@ -1,34 +1,38 @@
-## Hi there 👋
-## I am Lasya
-Hi there, I'm Lasya Rao! 👋
-I'm a passionate Computer Science student at the Institute of Aeronautical Engineering, currently in my 3rd semester. My journey in technology has led me to explore various fields, with a special focus on cybersecurity and software development.
-</br>
-</br>
-🌟 About Me
-</br>
+# Hi there, I'm Lasya Rao! 👋
 
-I’m deeply interested in cybersecurity, where I work as part of a startup called PostDev, specializing in penetration testing. My goal is to build robust security solutions and contribute to a safer digital landscape.
-</br>
-I'm also involved in community initiatives, serving as the PR Lead for GDG on Campus. I love connecting with like-minded individuals and sharing knowledge through Study Jams and events.
-My technical skills include C, Java, Python, SQL, HTML, CSS, and Bootstrap. I'm eager to learn new programming languages and technologies, continually seeking to enhance my expertise.
-</br>
-</br>
-🚀 Projects 
-</br>
-Dhanone3: I am working on an AI-based software aimed at reducing the workload for radiologists. This project is close to my heart as it combines my interest in AI with my desire to make a positive impact in healthcare.
-</br>
-Smart India Hackathon: I'm participating in this initiative to develop a free game software for government primary schools, aimed at making education more engaging and bridging the gap between government and private institutions.
-<!--
-**Lasya1905/Lasya1905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a **cybersecurity enthusiast** exploring **network security, ethical hacking, and web development**. Passionate about securing digital systems and building innovative solutions, I actively contribute to open-source projects and participate in tech communities.
 
-Here are some ideas to get you started:
+## 💻 Skills
+- **Programming:** Python, Java, C, C#, SQL
+- **Web Development:** HTML, CSS, JavaScript, Bootstrap
+- **Cybersecurity:** Ethical Hacking, OSINT, Risk Assessment, Steganography
+- **Tools:** OpenCV, MS Word, MS Excel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Projects
+- **StegaPy:** Python-based tool using OpenCV for LSB steganography
+- **Real-Time Face Recognition:** Face detection system using OpenCV
+- **Interactive Restaurant Web Interface:** Front-end with QR integration
+- **Dynamic Tourism Explorer Website:** Interactive travel website with Bootstrap
+
+## 🎓 Education
+**Bachelor’s in Computer Science & Engineering**  
+Institute of Aeronautical Engineering, Hyderabad  
+**GPA:** 9.15 (Till II Sem)
+
+## 📜 Certifications
+- **Cybersecurity Foundations, Risk Management, Network Security** (Google, Coursera)
+- **Java Programming, Python DSA** (NPTEL)
+- **Ethical Hacking** (Great Learning)
+
+## 📌 Work Experience
+- **Cybersecurity Intern @ EDUNET Foundation IBM SkillsBuild** (Jan 2025 - Present)  
+- **Digital Operations & Growth Associate @ PostDev** (Sept 2024 - Present)  
+- **Public Relations Lead @ GDG on Campus Hyderabad** (Sept 2024 - Present)  
+
+## 📫 Connect with Me
+- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
+- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- **Email:** your.email@example.com
+
+🔹 *Always open to learning and collaboration!* 🚀
