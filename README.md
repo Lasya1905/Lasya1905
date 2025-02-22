@@ -33,6 +33,6 @@ Institute of Aeronautical Engineering, Hyderabad
 ## 📫 Connect with Me
 - **GitHub:** [github.com/yourusername](https://github.com/Lasya1905)
 - **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/lasya-rao-k-894282291/)
-- **Email:** : klasyarao@gmail.com
+- **Email:**  klasyarao@gmail.com
 
 🔹 *Always open to learning and collaboration!* 🚀
