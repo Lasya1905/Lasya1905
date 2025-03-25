@@ -18,8 +18,8 @@ I'm a **cybersecurity enthusiast** exploring **network security, ethical hacking
 - **Dynamic Tourism Explorer Website:** Interactive travel website with Bootstrap
 
 ## 📫 Connect with Me
-- **GitHub:** [github.com/yourusername](https://github.com/Lasya1905)
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/lasya-rao-k-894282291/)
+- **GitHub:** [github.com/Lasya1905](https://github.com/Lasya1905)
+- **LinkedIn:** [linkedin.com/in/lasya-rao-894282291](https://www.linkedin.com/in/lasya-rao-k-894282291/)
 - **Email:**  klasyarao@gmail.com
 
 🔹 *Always open to learning and collaboration!* 🚀
