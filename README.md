@@ -10,25 +10,12 @@ I'm a **cybersecurity enthusiast** exploring **network security, ethical hacking
 - **Tools:** OpenCV, MS Word, MS Excel
 
 ## 🛠️ Projects
-- **StegaPy:** Python-based tool using OpenCV for LSB steganography
+- **CloneGPT:** interactive chatbot built with Streamlit that integrates Google's Gemini AI API to generate responses in real-time.
+- **WeatherNow:** real-time weather application using a third-party weather API to fetch and display weather data dynamically.
+- **StegaPyX:** Python-based tool using OpenCV for LSB steganography and Tkinter for GUI
 - **Real-Time Face Recognition:** Face detection system using OpenCV
 - **Interactive Restaurant Web Interface:** Front-end with QR integration
 - **Dynamic Tourism Explorer Website:** Interactive travel website with Bootstrap
-
-## 🎓 Education
-**Bachelor’s in Computer Science & Engineering**  
-Institute of Aeronautical Engineering, Hyderabad  
-**GPA:** 9.15 (Till II Sem)
-
-## 📜 Certifications
-- **Cybersecurity Foundations, Risk Management, Network Security** (Google, Coursera)
-- **Java Programming, Python DSA** (NPTEL)
-- **Ethical Hacking** (Great Learning)
-
-## 📌 Work Experience
-- **Cybersecurity Intern @ EDUNET Foundation IBM SkillsBuild** (Jan 2025 - Present)  
-- **Digital Operations & Growth Associate @ PostDev** (Sept 2024 - Present)  
-- **Public Relations Lead @ GDG on Campus Hyderabad** (Sept 2024 - Present)  
 
 ## 📫 Connect with Me
 - **GitHub:** [github.com/yourusername](https://github.com/Lasya1905)
