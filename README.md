@@ -1,7 +1,7 @@
 # Hi there, I'm Lasya Rao! 👋
 
 ## 🚀 About Me
-I'm a **cybersecurity enthusiast** exploring **network security, ethical hacking, and web development**. Passionate about securing digital systems and building innovative solutions, I actively contribute to open-source projects and participate in tech communities.
+I'm a **cybersecurity enthusiast** exploring **network security, ethical hacking, and web development**. Passionate about securing digital systems and building innovative solutions, I actively contribute to projects and participate in tech communities.
 
 ## 💻 Skills
 - **Programming:** Python, Java, C, C#, SQL
