@@ -7,12 +7,13 @@ I'm a **cybersecurity enthusiast** exploring **network security, ethical hacking
 - **Programming:** Python, Java, C, C#, SQL
 - **Web Development:** HTML, CSS, JavaScript, Bootstrap
 - **Cybersecurity:** Ethical Hacking, OSINT, Risk Assessment, Steganography
-- **Tools:** OpenCV, MS Word, MS Excel
+- **Tools:** Kali Linux, Metasploit, Wireshark, Nmap
 
 ## 🛠️ Projects
+- **CyberHelp Button:** detects AI-generated voice impersonation and deepfake-related issues, along with an SOS Button.
+- **StegaPyX:** Python-based tool using OpenCV for LSB steganography and Tkinter for GUI
 - **CloneGPT:** interactive chatbot built with Streamlit that integrates Google's Gemini AI API to generate responses in real-time.
 - **WeatherNow:** real-time weather application using a third-party weather API to fetch and display weather data dynamically.
-- **StegaPyX:** Python-based tool using OpenCV for LSB steganography and Tkinter for GUI
 - **Real-Time Face Recognition:** Face detection system using OpenCV
 - **Interactive Restaurant Web Interface:** Front-end with QR integration
 - **Dynamic Tourism Explorer Website:** Interactive travel website with Bootstrap
