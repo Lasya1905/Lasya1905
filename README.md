@@ -105,7 +105,7 @@ Promoted 10+ technical events and increased participation to 150–200+ students
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lasya1905)
 
 📧 **Email:** 23951a055u@iare.ac.in
-
+📧 **Personal Email:** klasyarao@gmail.com
 ---
 
 > "Building intelligent solutions that make technology more accessible, efficient, and impactful."
